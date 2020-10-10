@@ -1,4 +1,4 @@
-<h2> Hi! I'm Guilherme<img src="https://media.giphy.com/media/fUkC9LzRyIxJhYPASn/giphy.gif" width="50"></h2>
+<h2> Hi! I'm Guilherme <img src="https://media.giphy.com/media/fUkC9LzRyIxJhYPASn/giphy.gif" width="50"></h2>
 <br>
 <p align="center">
   💻 <b>Front-end developer</b> &nbsp;
