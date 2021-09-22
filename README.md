@@ -1,7 +1,7 @@
 <h2> Hi! I'm Guilherme <img src="https://media.giphy.com/media/fUkC9LzRyIxJhYPASn/giphy.gif" width="50"></h2>
 <br>
 <p align="center">
-  💻 <b>Fullstack developer</b> &nbsp;
+  💻 <b>NodeJS developer</b> &nbsp;
 </p>
 <p align="center">
   📌 Living in <b>Porto Alegre</b>, <b>Brazil</b> &nbsp;
